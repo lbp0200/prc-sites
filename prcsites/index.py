@@ -6,7 +6,7 @@ from selenium.webdriver.firefox.options import Options
 import re
 
 # global prc_sites
-prc_sites = {}
+prc_sites = {'cn', 'local', 'lan', 'localhost', }
 clicked = {}
 loaded_url = {}
 
