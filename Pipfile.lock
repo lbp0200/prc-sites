@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "026366479f076cb4107f7ed376ad61d061478439d76adc3440171f0efe5f46ba"
+            "sha256": "8fe3fdb2031ed52d1e2f0b79c2b392a19740433dcb99b751bfe9227e18a0c539"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -50,6 +50,10 @@
         "selenium": {
             "hashes": [],
             "version": "==3.12.0"
+        },
+        "splinter": {
+            "hashes": [],
+            "version": "==0.8.0"
         },
         "urllib3": {
             "hashes": [],

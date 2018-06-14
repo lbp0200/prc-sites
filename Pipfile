@@ -13,3 +13,4 @@ name = "pypi"
 
 selenium = "*"
 browsermob-proxy = "*"
+splinter = "*"
