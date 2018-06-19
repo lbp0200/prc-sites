@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e5537e05a7fd1114ce3ccb4e186765a26153c35a9c0acce5fd0bd7afb5b06fcf"
+            "sha256": "8fe3fdb2031ed52d1e2f0b79c2b392a19740433dcb99b751bfe9227e18a0c539"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -27,9 +27,37 @@
         ]
     },
     "default": {
+        "browsermob-proxy": {
+            "hashes": [],
+            "version": "==0.8.0"
+        },
+        "certifi": {
+            "hashes": [],
+            "version": "==2018.4.16"
+        },
+        "chardet": {
+            "hashes": [],
+            "version": "==3.0.4"
+        },
+        "idna": {
+            "hashes": [],
+            "version": "==2.6"
+        },
+        "requests": {
+            "hashes": [],
+            "version": "==2.18.4"
+        },
         "selenium": {
             "hashes": [],
             "version": "==3.12.0"
+        },
+        "splinter": {
+            "hashes": [],
+            "version": "==0.8.0"
+        },
+        "urllib3": {
+            "hashes": [],
+            "version": "==1.22"
         }
     },
     "develop": {}
